@@ -1,0 +1,32 @@
+.footer{
+  width: 100%;
+  padding-top: 2rem;
+  font-size: 25px;
+  color: #f70909;
+  font-weight: bolder;
+  background-color: #f8cd0c;
+}
+
+.fLists{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 50px;
+}
+
+.fList{
+  list-style: none;
+  padding: 0;
+}
+
+.fListItem{
+  margin-bottom: 10px;
+  cursor: pointer;
+  font-size: 20px;
+  color: #f70909;
+  font-weight: bolder;
+}
+.para{
+  width: 30%;
+  margin-left: 5rem;
+}
